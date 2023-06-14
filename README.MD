@@ -4,5 +4,8 @@ THIS IS [GTFS](https://developers.google.com/transit/gtfs) Project consisting da
 
 ## Instructions for the  static data
 
+- Download the static data files from https://opendata.iiitd.edu.in/data/static/
+- Create a folder named "delhi" and unzip the above file contents to this folder
+- Use the data inside the jupyter notebook 
 
 Data credits : https://opendata.iiitd.edu.in/
